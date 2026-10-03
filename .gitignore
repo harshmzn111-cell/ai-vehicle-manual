@@ -1,0 +1,16 @@
+# Node
+node_modules/
+dist/
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# ChromaDB persisted data
+chroma_db/
+
+# Misc
+.DS_Store
+*.log

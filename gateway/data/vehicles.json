@@ -1,0 +1,135 @@
+{
+  "brands": [
+    {
+      "name": "Maruti Suzuki",
+      "models": [
+        {
+          "name": "Swift",
+          "years": [2020, 2021, 2022, 2023, 2024],
+          "fuelTypes": ["Petrol", "CNG"],
+          "variants": ["LXi", "VXi", "ZXi", "ZXi+"]
+        },
+        {
+          "name": "Baleno",
+          "years": [2021, 2022, 2023, 2024],
+          "fuelTypes": ["Petrol", "CNG"],
+          "variants": ["Sigma", "Delta", "Zeta", "Alpha"]
+        },
+        {
+          "name": "Brezza",
+          "years": [2022, 2023, 2024],
+          "fuelTypes": ["Petrol", "CNG"],
+          "variants": ["LXi", "VXi", "ZXi", "ZXi+"]
+        }
+      ]
+    },
+    {
+      "name": "Hyundai",
+      "models": [
+        {
+          "name": "Creta",
+          "years": [2020, 2021, 2022, 2023, 2024],
+          "fuelTypes": ["Petrol", "Diesel"],
+          "variants": ["E", "EX", "S", "SX", "SX(O)"]
+        },
+        {
+          "name": "i20",
+          "years": [2021, 2022, 2023, 2024],
+          "fuelTypes": ["Petrol"],
+          "variants": ["Magna", "Sportz", "Asta"]
+        },
+        {
+          "name": "Venue",
+          "years": [2021, 2022, 2023, 2024],
+          "fuelTypes": ["Petrol", "Diesel"],
+          "variants": ["E", "S", "SX", "SX(O)"]
+        }
+      ]
+    },
+    {
+      "name": "Tata",
+      "models": [
+        {
+          "name": "Nexon",
+          "years": [2021, 2022, 2023, 2024],
+          "fuelTypes": ["Petrol", "Diesel", "EV"],
+          "variants": ["XE", "XM", "XZ+", "XZ+ Lux"]
+        },
+        {
+          "name": "Punch",
+          "years": [2022, 2023, 2024],
+          "fuelTypes": ["Petrol", "CNG"],
+          "variants": ["Pure", "Adventure", "Creative"]
+        },
+        {
+          "name": "Tiago",
+          "years": [2021, 2022, 2023, 2024],
+          "fuelTypes": ["Petrol", "CNG"],
+          "variants": ["XE", "XM", "XZ+"]
+        }
+      ]
+    },
+    {
+      "name": "Mahindra",
+      "models": [
+        {
+          "name": "XUV700",
+          "years": [2022, 2023, 2024],
+          "fuelTypes": ["Petrol", "Diesel"],
+          "variants": ["MX", "AX3", "AX5", "AX7"]
+        },
+        {
+          "name": "Scorpio-N",
+          "years": [2022, 2023, 2024],
+          "fuelTypes": ["Petrol", "Diesel"],
+          "variants": ["Z2", "Z4", "Z6", "Z8"]
+        }
+      ]
+    },
+    {
+      "name": "Kia",
+      "models": [
+        {
+          "name": "Seltos",
+          "years": [2021, 2022, 2023, 2024],
+          "fuelTypes": ["Petrol", "Diesel"],
+          "variants": ["HTE", "HTK", "HTX", "GTX+"]
+        },
+        {
+          "name": "Sonet",
+          "years": [2021, 2022, 2023, 2024],
+          "fuelTypes": ["Petrol", "Diesel"],
+          "variants": ["HTE", "HTK", "HTX", "GTX+"]
+        }
+      ]
+    },
+    {
+      "name": "Honda",
+      "models": [
+        {
+          "name": "City",
+          "years": [2021, 2022, 2023, 2024],
+          "fuelTypes": ["Petrol", "Hybrid"],
+          "variants": ["SV", "V", "VX", "ZX"]
+        }
+      ]
+    },
+    {
+      "name": "Toyota",
+      "models": [
+        {
+          "name": "Innova Crysta",
+          "years": [2020, 2021, 2022, 2023],
+          "fuelTypes": ["Diesel", "Petrol"],
+          "variants": ["GX", "VX", "ZX"]
+        },
+        {
+          "name": "Fortuner",
+          "years": [2021, 2022, 2023, 2024],
+          "fuelTypes": ["Diesel", "Petrol"],
+          "variants": ["Standard", "MT", "AT", "Legender"]
+        }
+      ]
+    }
+  ]
+}

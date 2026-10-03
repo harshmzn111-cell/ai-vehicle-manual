@@ -1,0 +1,26 @@
+[
+  {
+    "pdf": "./manuals/maruti_swift_2023_petrol_zxi.pdf",
+    "brand": "Maruti Suzuki",
+    "model": "Swift",
+    "year": 2023,
+    "fuel": "Petrol",
+    "variant": "ZXi"
+  },
+  {
+    "pdf": "./manuals/hyundai_creta_2021_diesel_sx.pdf",
+    "brand": "Hyundai",
+    "model": "Creta",
+    "year": 2021,
+    "fuel": "Diesel",
+    "variant": "SX"
+  },
+  {
+    "pdf": "./manuals/tata_nexon_2024_ev_xz_plus.pdf",
+    "brand": "Tata",
+    "model": "Nexon",
+    "year": 2024,
+    "fuel": "EV",
+    "variant": "XZ+"
+  }
+]

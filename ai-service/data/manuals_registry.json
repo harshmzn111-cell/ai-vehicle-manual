@@ -1,0 +1,24 @@
+{
+  "manuals": {
+    "20c816df2410fb67c73291b7": {
+      "document_id": "20c816df2410fb67c73291b7",
+      "brand": "Tata",
+      "model": "Punch",
+      "year": 2023,
+      "fuel": "Petrol",
+      "variant": "Adventure",
+      "original_filename": "punch-bsvi-09-09-21.pdf",
+      "file_path": "data\\uploads\\manuals\\tata_punch_2023_petrol_adventure_20c816df2410.pdf",
+      "content_hash": "6742756fe64378f4",
+      "file_size_bytes": 5470329,
+      "source": "user_upload",
+      "manual_url": null,
+      "status": "ingested",
+      "chunks_indexed": 0,
+      "error_message": null,
+      "uploaded_at": "2026-09-04T19:57:54Z",
+      "ingested_at": "2026-09-04T19:58:27Z",
+      "active": true
+    }
+  }
+}
